@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaundryWebApi", "LaundryWebApi\LaundryWebApi.csproj", "{C42B24C9-81ED-443C-A20C-BBD84AFB13A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C42B24C9-81ED-443C-A20C-BBD84AFB13A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C42B24C9-81ED-443C-A20C-BBD84AFB13A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C42B24C9-81ED-443C-A20C-BBD84AFB13A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C42B24C9-81ED-443C-A20C-BBD84AFB13A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3F95200-3C68-49CE-8074-5BB26283DA3F}
+	EndGlobalSection
+EndGlobal
